@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="description">Select currency convert type:</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+</resources>
